@@ -1,0 +1,36 @@
+{
+  "name": "tslint-config-bonzai",
+  "version": "0.0.0-semantically-released",
+  "description": "TSLint rules for Bonzai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonzaico/tslint-config-bonzai.git"
+  },
+  "keywords": [
+    "tslint",
+    "config",
+    "typescript",
+    "bonzai"
+  ],
+  "author": {
+    "name": "Bonzai Digital",
+    "email": "opensource@bonzai.co",
+    "url": "https://www.bonzai.co"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bonzaico/tslint-config-bonzai/issues"
+  },
+  "homepage": "https://github.com/bonzaico/tslint-config-bonzai#readme",
+  "dependencies": {
+    "tslint-eslint-rules": "^5.4.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.5"
+  }
+}
